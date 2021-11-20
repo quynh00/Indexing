@@ -1,5 +1,3 @@
-package Automata;
-
 import java.util.*; 
 import java.io.*;
 
