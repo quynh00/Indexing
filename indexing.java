@@ -1,6 +1,6 @@
 import java.util.*; 
 import java.io.*;
-hiii
+
 public class indexing
 {
    public static void main(String[] args) throws IOException
